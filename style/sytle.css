@@ -28,3 +28,11 @@
     left: 10px;
     animation-duration: 10s;
 }
+
+.loader:after{
+    height: 50px;
+    width: 50px;
+    top: 22px;
+    left: 22px;
+    animation-duration: 4s;
+}
