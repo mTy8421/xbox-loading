@@ -20,3 +20,11 @@
     width: 100px;
     animation-duration: 1.05s;
 }
+
+.loader:before{
+    height: 75px;
+    width: 75px;
+    top: 10px;
+    left: 10px;
+    animation-duration: 10s;
+}
