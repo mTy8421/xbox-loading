@@ -4,3 +4,8 @@
     left: calc(50% - 25px);
 }
 
+.loader,
+.loader:before,
+.loader:after{
+    position: absolute;
+}
