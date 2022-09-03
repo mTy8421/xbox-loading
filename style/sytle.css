@@ -36,3 +36,12 @@
     left: 22px;
     animation-duration: 4s;
 }
+
+@keyframes rotate{
+    from{
+        transform: rotateZ(360deg);
+    }
+    to{
+        transform: rotateZ(0deg);
+    }
+}
