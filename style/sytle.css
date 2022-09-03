@@ -14,3 +14,9 @@
     animation: rotate linear infinite;
     content: "";
 }
+
+.loader{
+    height: 100px;
+    width: 100px;
+    animation-duration: 1.05s;
+}
