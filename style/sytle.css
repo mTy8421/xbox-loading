@@ -8,4 +8,9 @@
 .loader:before,
 .loader:after{
     position: absolute;
+    border: 3px solid transparent;
+    border-top: 3px solid hsl(83, 82%, 53%);
+    border-radius: 50%;
+    animation: rotate linear infinite;
+    content: "";
 }
